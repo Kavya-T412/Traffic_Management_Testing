@@ -1,0 +1,9 @@
+Flask==2.2.5
+Flask-Cors==3.0.10
+numpy
+opencv-python
+torch
+torchvision
+twilio
+paho-mqtt
+RPi.GPIO
